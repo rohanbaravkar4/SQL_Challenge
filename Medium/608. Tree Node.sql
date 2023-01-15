@@ -10,7 +10,7 @@ id is the primary key column for this table.
 Each row of this table contains information about the id of a node and the id of its parent node in a tree.
 The given structure is always a valid tree.
  
-https://assets.leetcode.com/uploads/2021/10/22/tree2.jpg 
+"https://assets.leetcode.com/uploads/2021/10/22/tree2.jpg" 
 
 Each node in the tree can be one of three types:
 
