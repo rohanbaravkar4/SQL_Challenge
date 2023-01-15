@@ -53,3 +53,11 @@ SELECT author_id as id from Views
 where author_id = viewer_id
 Group by id
 order by id asc;
+
+-- OR 
+
+-- Solution: Basics
+SELECT DISTINCT author_id AS id
+FROM Views
+WHERE author_id = viewer_id
+ORDER BY id;
