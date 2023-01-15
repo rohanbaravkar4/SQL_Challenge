@@ -66,5 +66,8 @@ addressId = 1 contains information about the address of personId = 2.
 
 # Write your MySQL query statement below
 
+
+-- LEFT JOIN return all records from the left table, and the matched records from the right table
+
 select person.firstName, person.lastName, Address.city, Address.state from person
 Left JOIN address on person.personID = Address.personID;
