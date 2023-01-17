@@ -1,3 +1,4 @@
+'''
 Table: Products
 
 +-------------+---------+
@@ -46,6 +47,8 @@ Product 0 is available in all three stores with prices 95, 100, and 105 respecti
 Product 1 is available in store1 with price 70 and store3 with price 80. The product is not available in store2.
 
 =======================================================================================================================================================
+'''
+
 
 # Write your MySQL query statement below
 SELECT product_id,
