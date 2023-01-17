@@ -1,4 +1,4 @@
-
+'''
 ======================================================================================================================================================================
 Table: Person
 
@@ -45,7 +45,7 @@ Output:
 Explanation: john@example.com is repeated two times. We keep the row with the smallest Id = 1.
 
 =====================================================================================================================================================================
-
+'''
 
 # Please write a DELETE statement and DO NOT write a SELECT statement.
 # Write your MySQL query statement below
