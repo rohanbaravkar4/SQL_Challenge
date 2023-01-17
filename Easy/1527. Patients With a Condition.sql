@@ -1,3 +1,5 @@
+'''
+
 -- Table: Patients
 
 +--------------+---------+
@@ -43,6 +45,8 @@ Output:
 Explanation: Bob and George both have a condition that starts with DIAB1.
 
 ====================================================================================================================
+'''
+
 
 # Write your MySQL query statement below
 SELECT * FROM patients
