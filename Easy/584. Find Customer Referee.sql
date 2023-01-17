@@ -1,4 +1,4 @@
-
+'''
 -- Question 10
 -- Given a table customer holding customers information and the referee.
 
@@ -24,6 +24,7 @@
 -- | Bill |
 -- | Zack |
 -- +------+
+'''
 
 -- Solution
 Select name
