@@ -1,3 +1,4 @@
+'''
 Table: Logins
 
 +----------------+----------+
@@ -50,6 +51,7 @@ User 2 logged into their account 2 times but only once in 2020, so we include th
 User 14 did not login in 2020, so we do not include them in the result table.
 
 +==========================================================================================================================================================
+'''
 
 1)
 
