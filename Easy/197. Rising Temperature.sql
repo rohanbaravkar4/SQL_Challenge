@@ -1,3 +1,4 @@
+'''
 Table: Weather
 
 +---------------+---------+
@@ -9,10 +10,10 @@ Table: Weather
 +---------------+---------+
 id is the primary key for this table.
 This table contains information about the temperature on a certain day.
- 
-
+''' 
+'''
 Write an SQL query to find all dates' Id with higher temperatures compared to its previous dates (yesterday).
-
+'''
 Return the result table in any order.
 
 The query result format is in the following example.
@@ -44,6 +45,8 @@ In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 
 
 =============================================================================================================================================
+'''
+
 
 1)
 SELECT w2.id
